@@ -43,7 +43,7 @@ Authentication:
 Posts:
 * Get a post by id: `/post/get`
 * Create a post: `/post/create`
-* Edit a post: `/post/create`
+* Edit a post: `/post/edit`
 * Delete a post: `/post/delete`
 
 Reactions: (likes and dislikes)
